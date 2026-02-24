@@ -1,6 +1,0 @@
-python==3.11
-streamlit
-pandas
-numpy
-scikit-learn
-openpyxl
